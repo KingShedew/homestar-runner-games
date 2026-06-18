@@ -12,3 +12,4 @@ Peasantsquest61.swf = Peasant's Quest
 stinkogame.swf = Stinkoman 20X6
 duckguardianv8.swf = Duck Guardian One
 egg7.swf = Where's an Egg?
+kidspeedy.swf = Kid Speedy
