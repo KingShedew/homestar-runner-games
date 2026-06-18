@@ -8,3 +8,4 @@ weengame.swf = Marshie Ween
 thyDungeonman3.swf = Thy Dungeon Man 3
 atarigame2.swf = Secret Collect
 rhinofeeder5.swf = Rhino Feeder
+Peasantsquest61.swf = Peasant's Quest
