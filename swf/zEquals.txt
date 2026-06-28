@@ -15,3 +15,4 @@ egg7.swf = Where's an Egg?
 kidspeedy.swf = Kid Speedy
 racewalk.swf = 50K Racewalker
 pigs_on_head.swf = Pigs On Head
+hallrunner.swf = Hallrunner
