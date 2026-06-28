@@ -16,3 +16,4 @@ kidspeedy.swf = Kid Speedy
 racewalk.swf = 50K Racewalker
 pigs_on_head.swf = Pigs On Head
 hallrunner.swf = Hallrunner
+stinko_comic.swf = Make-O Your Own Stinko
