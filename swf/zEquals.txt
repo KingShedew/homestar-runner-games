@@ -1,5 +1,5 @@
 trogdor.swf = Trogdor
-pop_tire.swf = Pop Tire
+pop_tire.swf = Population Tire
 text_adventure6 = Thy Dungeon Man
 dungeonman2.swf = Thy Dunegon Man 2
 awexome.swf = Awexome Cross
