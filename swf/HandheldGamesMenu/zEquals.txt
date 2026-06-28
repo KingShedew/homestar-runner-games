@@ -1,1 +1,2 @@
 dance.swf = Dancin' Bubs
+talky2.swf = Homestar Talker
