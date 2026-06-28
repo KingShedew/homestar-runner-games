@@ -3,3 +3,4 @@ talky2.swf = Homestar Talker
 percussion2.swf =  Audition with Marzipan
 broncotrolleys.swf = Bronco Trolleys
 stronglibs.swf = Strong Libs
+quiz.swf = Homestar Quiz
