@@ -1,4 +1,5 @@
 # homestar-runner-games
+> note: some game names may be slightly off because the HSR wiki can't name anything right.
 Hsr games
 
 ## How were these games aquired?
