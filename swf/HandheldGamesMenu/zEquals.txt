@@ -6,3 +6,4 @@ stronglibs.swf = Strong Libs
 quiz.swf = Homestar Quiz
 hairgame.swf = Hairstyle Runner
 fortune.swf = Homestar Runner Fortune Cookies
+whosaidwhat.swf = Who Said What Now
