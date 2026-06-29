@@ -5,3 +5,4 @@ broncotrolleys.swf = Bronco Trolleys
 stronglibs.swf = Strong Libs
 quiz.swf = Homestar Quiz
 hairgame.swf = Hairstyle Runner
+fortune.swf = Homestar Runner Fortune Cookies
